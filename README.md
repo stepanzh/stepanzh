@@ -4,7 +4,7 @@ I'm computational physicist and software enthusiast.
 
 - working on solvers for reservoir modelling at [JIHT RAS](https://jiht.ru/en/)
 - learning Swift and Vue
-- looking for part-time jobs in industrial software engineering
+- looking for part-time job in industrial software engineering
 - taught [MIPT](https://mipt.ru/english/) students programming and computational thermodynamics
 - creating question packs for Jeopardy!-like games
 
