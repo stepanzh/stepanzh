@@ -7,6 +7,7 @@ I'm computational physicist and software enthusiast.
 - looking for part-time job in industrial software engineering
 - taught [MIPT](https://mipt.ru/english/) students computer science and computational thermodynamics
 - creating question packs for Jeopardy!-like games
+- posting in [my blog](https://stepanzh.github.io) (sometime I will trasfer it to an SSG)
 
 Besides computational science, I'm experienced with fullstack web programming, UI prototyping and generative art.
 
