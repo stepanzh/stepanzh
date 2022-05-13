@@ -10,7 +10,7 @@ I'm computational physicist and software enthusiast.
 
 Besides computational science, I'm experienced with fullstack web programming, UI prototyping and generative art.
 
-My favorite languages are `Russian`, `Julia`, `math` and `Swift`.
+My favorite languages are `Russian`, `math`, `Julia` and `Swift`.
 
 Software I enjoy is `Sketch`, `Typora`, `Skim`, `MacOS` ecosystem (especially `Numbers`, `Keynote` and `Terminal`), `oh-my-zsh`, `Sublime Text`, `Zotero`, `DataGraph`, `VLC`.
 
