@@ -3,8 +3,8 @@
 I'm computational physicist and software enthusiast.
 
 - working on solvers for reservoir modelling at [JIHT RAS](https://jiht.ru/en/)
-- learning Swift and Vue
-- looking for part-time job in industrial software engineering
+- working on interfaces for electronic equipment at [SPE Detector LLC](https://nppdetector.ru/en/enhome/)
+- learning Swift and C#
 - taught [MIPT](https://mipt.ru/english/) students computer science and computational thermodynamics
 - creating question packs for Jeopardy!-like games
 - posting in [my blog](https://stepanzh.github.io) (sometime I will trasfer it to an SSG)
