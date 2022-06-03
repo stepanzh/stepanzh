@@ -2,7 +2,7 @@
 
 I'm computational physicist and software enthusiast.
 
-- working on solvers for reservoir modelling at [JIHT RAS](https://jiht.ru/en/)
+- working on solvers for reservoir modelling at [JIHT RAS](https://jiht.ru/en/), my publications at [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-4934-8679)
 - working on interfaces for electronic equipment at [SPE Detector LLC](https://nppdetector.ru/en/enhome/)
 - learning Swift and C#
 - taught [MIPT](https://mipt.ru/english/) students computer science and computational thermodynamics
