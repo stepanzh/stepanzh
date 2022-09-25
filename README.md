@@ -3,20 +3,8 @@
 I'm computational physicist and software enthusiast.
 
 - working on solvers for reservoir modelling at [JIHT RAS](https://jiht.ru/en/), my publications at [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-4934-8679)
-- working on interfaces for electronic equipment at [SPE Detector LLC](https://github.com/SPEDetector)
-- learning Swift and C#
+- working on automatization of electronic equipment at [SPE Detector LLC](https://github.com/SPEDetector)
 - taught [MIPT](https://mipt.ru/english/) students computer science and computational thermodynamics
-- creating question packs for Jeopardy!-like games
-- posting in [my blog](https://stepanzh.github.io)
-
-Besides computational science, I'm experienced with fullstack web programming, UI prototyping and generative art.
-
-My favorite languages are `Russian`, `math`, `Julia` and `Swift`.
-
-Software I enjoy is `Sketch`, `Typora`, `Skim`, `MacOS` ecosystem (especially `Numbers`, `Keynote` and `Terminal`), `oh-my-zsh`, `Sublime Text`, `Zotero`, `DataGraph`, `VLC`.
-
-Sometimes I'm playing board and computer games.
-I'm a fan of `Borderlands`, `Rome: Total War`, `Streets of Rage`, `Torchlight` and `Factorio`.
 
 #### Coding challenges I enjoyed
 
