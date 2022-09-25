@@ -4,7 +4,7 @@ I'm computational physicist and software enthusiast.
 
 - working on solvers for reservoir modelling at [JIHT RAS](https://jiht.ru/en/), my publications at [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-4934-8679)
 - working on automatization of electronic equipment at [SPE Detector LLC](https://github.com/SPEDetector)
-- taught [MIPT](https://mipt.ru/english/) students computer science and computational thermodynamics
+- taught [MIPT](https://mipt.ru/english/) students [computer science](http://cs.mipt.ru/) and [computational thermodynamics](https://stepanzh.github.io/computational_thermodynamics/)
 
 #### Coding challenges I enjoyed
 
