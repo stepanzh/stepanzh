@@ -6,6 +6,11 @@ I'm computational physicist and software enthusiast.
 - working on automatization of electronic equipment at [SPE Detector LLC](https://github.com/SPEDetector)
 - taught [MIPT](https://mipt.ru/english/) students [computer science](http://cs.mipt.ru/) and [computational thermodynamics](https://stepanzh.github.io/computational_thermodynamics/)
 
+Digital footprint
+
+- [Blog](stepanzh.github.io)
+- [stackoverflow](https://stackoverflow.com/users/17892216/)
+
 #### Coding challenges I enjoyed
 
 <a href="http://breakthecode.tech/wall-of-fame?alt=96482db0-af5a-447c-9e21-08867808e3b9"><img src="https://cdn.btc2.tech/v27/images/loader/logo-btc-2.png" height=100 alt="break the code 2 wall of fame"/></a>
