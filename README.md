@@ -8,7 +8,7 @@ I'm computational physicist and software enthusiast.
 
 Digital footprint
 
-- [Blog](stepanzh.github.io)
+- [blog](stepanzh.github.io)
 - [stackoverflow](https://stackoverflow.com/users/17892216/)
 
 #### Coding challenges I enjoyed
