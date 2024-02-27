@@ -8,6 +8,7 @@ I'm computational physicist and software enthusiast.
 - taught [MIPT](https://mipt.ru/english/) students [computer science](http://cs.mipt.ru/)
 - created [Proportio](https://stepanzh.github.io/Proportio) app
 - posting stuff in [blog](https://stepanzh.github.io)
+- answer questions time-to-time at [stack overflow](https://stackoverflow.com/users/17892216/stepan-zakharov)
 
 #### Coding challenges I enjoyed
 
