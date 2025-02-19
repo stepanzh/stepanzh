@@ -2,13 +2,18 @@
 
 I'm computational physicist and software enthusiast, PhD in thermodynamics.
 
+#### Now
+
 - work on solvers for Huawei R&D
+- post stuff in [blog](https://stepanzh.github.io)
+- maintain scaler for culinary recipes [Proportio](https://stepanzh.github.io/Proportio)
+- answer questions time-to-time at [stack overflow](https://stackoverflow.com/users/17892216/stepan-zakharov)
+
+#### In past
+
 - worked on solvers for reservoir modelling at [JIHT RAS](https://jiht.ru/en/); my publications at [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-4934-8679)
 - worked on automatization and remote control of electronic equipment at [SPE Detector LLC](https://github.com/SPEDetector)
 - taught [MIPT](https://mipt.ru/english/) students computational thermodynamics (and co-authored [book](https://stepanzh.github.io/computational_thermodynamics/)) and computer science
-- created scaler for culinary recipes [Proportio](https://stepanzh.github.io/Proportio)
-- post stuff in [blog](https://stepanzh.github.io)
-- answer questions time-to-time at [stack overflow](https://stackoverflow.com/users/17892216/stepan-zakharov)
 
 #### Coding challenges I enjoyed
 
