@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Stepan 👋
 
 I'm computational physicist and software enthusiast, PhD in thermodynamics.
 
