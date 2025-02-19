@@ -2,7 +2,8 @@
 
 I'm computational physicist and software enthusiast, PhD in thermodynamics.
 
-- work on solvers for reservoir modelling at [JIHT RAS](https://jiht.ru/en/); my publications at [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-4934-8679)
+- work on solvers for Huawei R&D
+- worked on solvers for reservoir modelling at [JIHT RAS](https://jiht.ru/en/); my publications at [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-4934-8679)
 - worked on automatization and remote control of electronic equipment at [SPE Detector LLC](https://github.com/SPEDetector)
 - taught [MIPT](https://mipt.ru/english/) students computational thermodynamics (and co-authored [book](https://stepanzh.github.io/computational_thermodynamics/)) and computer science
 - created scaler for culinary recipes [Proportio](https://stepanzh.github.io/Proportio)
