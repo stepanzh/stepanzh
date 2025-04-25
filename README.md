@@ -1,6 +1,6 @@
 ### Hi, I'm Stepan 👋
 
-I'm computational physicist and software enthusiast, PhD in thermodynamics.
+I'm computational physicist and software enthusiast, PhD in thermodynamics. See [my LinkedIn](https://www.linkedin.com/in/stepan-zakharov-b44ab4105/).
 
 #### Now
 
